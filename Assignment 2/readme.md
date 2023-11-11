@@ -33,4 +33,6 @@ These include the body of the satellite, the body and windshield of the UFO, the
 To view the animation simply open `main.html` in Chrome or Firefox.
 
 ![alt text](anim_video_cover.png)
+
+
 ![alt text](anim_space.gif)
