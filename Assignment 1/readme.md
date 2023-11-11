@@ -23,4 +23,4 @@
 
 To view the animation simply open `main.html` in Chrome or Firefox.
 
-![alt text]()
+![alt text](animation_ocean.gif)
